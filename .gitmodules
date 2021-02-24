@@ -1,0 +1,3 @@
+[submodule "RustDataStructures"]
+	path = RustDataStructures
+	url = https://github.com/brunoxti/RustDataStructures
