@@ -1,2 +1,2 @@
 # BasicsRustAlgorithms
-Basics algorithms with data structures in rust programing lenguage.
+Basics algorithms with data structures in rust programing language.
